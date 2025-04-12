@@ -1,0 +1,34 @@
+[
+  {
+    "Title": "Secret of success",
+    "Author": "Muhammad Yameen",
+    "Genre": "Unlocking Potential",
+    "Publication year": 2009,
+    "Read status": true,
+    "Added data":2025-4-12 12:29:54
+  },
+  {
+    "Title": "A Brief History of Time",
+    "Author": "Stephen Hawking",
+    "Genre": "Science",
+    "Publication year": 2008,
+    "Read status": true,
+    "Added data":2025-4-12 12:35:54
+  },
+  {
+    "Title": "Clean Code",
+    "Author": "Robert C. Martin",
+    "Genre": "Programming",
+    "Publication year": 2008,
+    "Read status": true,
+    "Added data":2025-4-12 12:41:31
+  },
+  {
+    "Title": "The Pragmatic Programmer",
+    "Author": "Andrew Hunt, David Thomas",
+    "Genre": "Programming",
+    "Publication year": 1999,
+    "Read status": true,
+    "Added data":2025-4-12 12:50:23
+  }
+]
